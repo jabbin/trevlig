@@ -3,4 +3,4 @@ trevlig
 
 Trevlig webbpublicering
 
-![Böcker]({{site.baseurl}}//bocker.jpg)
+![Böcker](https://github.com/jabbin/trevlig/bocker.jpg)
